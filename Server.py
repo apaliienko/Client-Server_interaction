@@ -1,4 +1,6 @@
 from socket import *
+
+
 myHost = ''
 myPort = 50007
 sockobj = socket(AF_INET, SOCK_STREAM)
