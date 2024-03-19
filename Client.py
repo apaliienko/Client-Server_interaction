@@ -1,6 +1,7 @@
 import sys
 from socket import *
 
+
 serverHost = 'localhost'
 serverPort = 50007
 
